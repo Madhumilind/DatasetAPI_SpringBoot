@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hackerrank.github.HttpJsonDynamicUnitTest" time="1.475000" tests="6" errors="0" skipped="0" failures="6">
+    <testcase name="Sample Test" classname="com.hackerrank.github.HttpJsonDynamicUnitTest" time="1.002000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 1" classname="com.hackerrank.github.HttpJsonDynamicUnitTest" time="0.102000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 2" classname="com.hackerrank.github.HttpJsonDynamicUnitTest" time="0.092000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 3" classname="com.hackerrank.github.HttpJsonDynamicUnitTest" time="0.095000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 4" classname="com.hackerrank.github.HttpJsonDynamicUnitTest" time="0.096000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 5" classname="com.hackerrank.github.HttpJsonDynamicUnitTest" time="0.088000">
+        <failure>
+        </failure>
+    </testcase>
+</testsuite>
